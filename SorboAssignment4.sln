@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorboAssignment4", "SorboAssignment4.csproj", "{FB63DB6A-F244-49EE-BFC5-4E6590C8FBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB63DB6A-F244-49EE-BFC5-4E6590C8FBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB63DB6A-F244-49EE-BFC5-4E6590C8FBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB63DB6A-F244-49EE-BFC5-4E6590C8FBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB63DB6A-F244-49EE-BFC5-4E6590C8FBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {371A7842-E05D-42C2-8803-44E88B274E9E}
+	EndGlobalSection
+EndGlobal
